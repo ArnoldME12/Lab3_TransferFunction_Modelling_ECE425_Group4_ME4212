@@ -2,3 +2,8 @@
 
 ## 👥 Contributors
 [![Contributors](https://img.shields.io/github/contributors/ArnoldME12/Lab3_TransferFunction_Modelling_ECE425_Group4_ME4212.svg)](https://github.com/ArnoldME12/Lab3_TransferFunction_Modelling_ECE425_Group4_ME4212/graphs/contributors)
+
+git add README.md
+git commit -m "Add README with contributors badge"
+git push
+ 
