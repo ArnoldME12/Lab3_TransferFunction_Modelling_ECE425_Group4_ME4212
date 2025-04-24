@@ -1,4 +1,4 @@
-## ✨ Contributors
+ ## ✨ Contributors
 
 Thanks goes to these awesome people:
 
